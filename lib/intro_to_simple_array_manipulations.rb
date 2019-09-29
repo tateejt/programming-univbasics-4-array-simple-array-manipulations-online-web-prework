@@ -54,6 +54,7 @@ end
 def using_delete(array, strings)
   instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
   instructors.delete("Steven")
+  instructors.delete("Steven")
 end
 
 def using_delete_at(array, integer)
