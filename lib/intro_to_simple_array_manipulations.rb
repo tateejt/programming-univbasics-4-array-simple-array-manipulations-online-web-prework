@@ -42,4 +42,5 @@ def using_insert(array, element)
   another_language = "Python"
   list_of_programming_languages.insert(3,another_language)
 end
-  
+  def using_uniq(array)
+    
