@@ -43,5 +43,5 @@ def using_insert(array, element)
   list_of_programming_languages.insert(3,another_language)
 end
   def using_uniq(array)
-    aircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
+    haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
     aircuts
