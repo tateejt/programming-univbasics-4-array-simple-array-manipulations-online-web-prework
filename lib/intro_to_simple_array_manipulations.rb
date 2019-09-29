@@ -44,4 +44,4 @@ def using_insert(array, element)
 end
   def using_uniq(array)
     aircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
-    
+    aircuts
