@@ -36,3 +36,6 @@ def shift_with_args(array)
    more_favs = ["sports cars", "flatiron school"]
    my_favorite_things.concat(more_favs)
 end
+
+def using_insert(array, element)
+  
